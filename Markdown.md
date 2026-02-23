@@ -40,3 +40,36 @@
 1. First
 2. Second
 3. Third
+
+## 2.4 Код бичих
+### ✔ Inline code
+`git status`
+
+Жишээ: git status
+
+### ✔ Code block
+```bash
+git add .
+git commit -m "first commit"
+
+Жишээ:
+
+```bash
+git add .
+git commit -m "first commit"
+
+## 2.5 Link хийх
+[Google](https://google.com)
+
+
+## 2.6 Зураг оруулах
+![alt text](image.png)
+
+![Screenshot](images/screenshot.png)
+
+
+## 2.7 Хүснэгт (Table)
+| Нэр | Нас | Мэргэжил |
+|-----|-----|----------|
+| Бат | 20  | IT       |
+| Болд| 22  | SE       |
