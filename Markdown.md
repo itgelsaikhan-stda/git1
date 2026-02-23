@@ -78,6 +78,7 @@ git commit -m "first commit"
 # 3. Стандарт README.md бүтэц
 
 Хичээлд ашиглах **стандарт бүтэц**:
+
 ![screenshot](images/readmeMdStructure.png)
 
 # 5. Сайн README ямар байх ёстой вэ?
