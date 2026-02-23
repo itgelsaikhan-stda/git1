@@ -45,8 +45,6 @@
 ### ✔ Inline code
 `git status`
 
-Жишээ: git status
-
 ### ✔ Code block
 ```bash
 git add .
@@ -57,6 +55,8 @@ git commit -m "first commit"
 ```bash
 git add .
 git commit -m "first commit"
+
+``` 
 
 ## 2.5 Link хийх
 [Google](https://google.com)
